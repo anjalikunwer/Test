@@ -2,5 +2,6 @@
 <head<</head>
 <body>
 <h1>This is the register page</h1>
+This is my only register page
 </body>
 </html>
